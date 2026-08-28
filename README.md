@@ -22,8 +22,9 @@ Before Ideambox: Chief Engineer at Great Wall Motors (Baoding), Advanced Enginee
 ### Patents
 
 - **[US 10,975,957 B2](https://patents.google.com/patent/US10975957B2/en)** — Shift-by-wire with integrated feedback system (2021)
-- Luminaire assembly (2019)
-- Gear shift assembly for vehicles (2016, 2017)
+- **[US 10,295,127 B2](https://patents.google.com/patent/US10295127B2/en)** — Luminaire assembly (2019)
+- **[WO 2017/124373 A1](https://patents.google.com/patent/WO2017124373A1/en)** — Gearshift assembly for vehicles (2017)
+- **[EP 3447339 A1](https://patents.google.com/patent/EP3447339A1/en)** — Gearshift assembly for motor vehicles (2017)
 
 ### About this profile
 
