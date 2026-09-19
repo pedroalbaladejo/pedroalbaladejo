@@ -1,6 +1,6 @@
 ## Pedro Albaladejo
 
-Industrial design engineer and founder of **[Ideambox](https://ideambox.com)** in Taipei. I develop physical products from concept to mass production, combining product and mechanical engineering, electronics integration, prototyping, validation and manufacturing in Asia.
+Industrial design engineer and founder of **[Ideambox](https://ideambox.com)** in Taipei. I develop physical products from concept to mass production, combining product and mechanical engineering, electronics integration, prototyping, validation and manufacturing across Taiwan and China.
 
 My background spans more than 20 years across automotive, aerospace and product development. Before founding Ideambox, I was Chief Engineer at Great Wall Motors in Baoding, Advanced Engineering Manager at Ficosa in Michigan, and Engineering Supervisor at Ficosa in Taicang, working on shift-by-wire and vehicle control systems for Volvo, Toyota, GM, Ford, Nissan, Geely, GWM and Qoros. Earlier, I worked on aircraft assembly and structural engineering at MTorres on Airbus and Boeing programs.
 
@@ -17,12 +17,12 @@ Taipei, Taiwan &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pedroalbala
 | **[Carbi](https://carbi.com)** | 1,500-lumen smart headlamp designed around peripheral vision |
 | **GSTS** | Shift-by-wire gear selector based on a three-dimensional touch interface |
 
-### Software Products
+### Software & Platforms
 
 | Project | What it is |
 |---|---|
 | **[MyRate FX](https://myratefx.com)** | Shows the exchange rate your bank actually applies — card, ATM, cash and transfer — across 600+ banks in 51 countries. [Google Play](https://play.google.com/store/apps/details?id=com.myratefx.app) |
-| **[ClearCopies](https://clearcopies.com)** | Finds exact duplicate files across OneDrive, Google Drive and Dropbox, with read-only scanning and recoverable deletion |
+| **[ClearCopies](https://clearcopies.com)** | Finds exact duplicate files across OneDrive, Google Drive and Dropbox, with read-only scanning and recoverable trash. [Google Play](https://play.google.com/store/apps/details?id=com.clearcopies.app) |
 | **[Albaysol](https://albaysol.com)** | Platform for comparing verified independent real-estate agents before selling a property. Piloting in Málaga |
 
 ### Websites & Archives
@@ -44,4 +44,4 @@ Taipei, Taiwan &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pedroalbala
 
 Most of my engineering work lives in private repositories — client products under NDA, embedded systems, manufacturing documentation and internal development tools.
 
-The public work here reflects the other side of what I build: physical products, software and digital systems intended to be used in the real world.
+The public projects here reflect the broader range of what I build: physical products, software, platforms and digital systems intended for real-world use.
