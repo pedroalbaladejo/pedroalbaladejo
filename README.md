@@ -1,23 +1,37 @@
 ## Pedro Albaladejo
 
-Industrial engineer and founder of **[Ideambox](https://ideambox.com)** in Taipei. Twenty years taking physical products from sketch to mass production — automotive and aeronautical — and, more recently, building the software around them.
+Industrial design engineer and founder of **[Ideambox](https://ideambox.com)** in Taipei. I develop physical products from concept to mass production, combining product and mechanical engineering, electronics integration, prototyping, validation and manufacturing in Asia.
 
-Before Ideambox: Chief Engineer at Great Wall Motors (Baoding), Advanced Engineering Manager at Ficosa (Michigan) and Engineering Supervisor at Ficosa (Taicang), on shift-by-wire and command-and-control programs for Volvo, Toyota, GM, Ford, Nissan, Geely, GWM and Qoros. Earlier, aircraft assembly and structural simulation at MTorres under Airbus and Boeing supervision.
+My background spans more than 20 years across automotive, aerospace and product development. Before founding Ideambox, I was Chief Engineer at Great Wall Motors in Baoding, Advanced Engineering Manager at Ficosa in Michigan, and Engineering Supervisor at Ficosa in Taicang, working on shift-by-wire and vehicle control systems for Volvo, Toyota, GM, Ford, Nissan, Geely, GWM and Qoros. Earlier, I worked on aircraft assembly and structural engineering at MTorres on Airbus and Boeing programs.
 
-📍 Taipei, Taiwan &nbsp;·&nbsp; 🌐 [pedroalbaladejo.com](https://pedroalbaladejo.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pedroalbaladejo)
+More recently, I have been building software products alongside hardware — particularly tools where engineering, data and real-world workflows intersect.
 
-### Building
+Taipei, Taiwan &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pedroalbaladejo)
+
+### Companies & Products
 
 | Project | What it is |
 |---|---|
-| **[Ideambox](https://ideambox.com)** | Product engineering studio — industrial design, CAD, electronics, validation and manufacturing across Taiwan and China |
-| **[MyRate FX](https://myratefx.com)** | The exchange rate your bank *actually* applies — card, ATM, cash, transfer — across 600+ banks in 51 countries. [On Google Play](https://play.google.com/store/apps/details?id=com.myratefx.app) |
-| **[ClearCopies](https://clearcopies.com)** | Finds exact duplicate files in OneDrive, Google Drive and Dropbox. Read-only scan, recoverable trash, never removes the last original |
-| **[Albaysol](https://albaysol.com)** | Compare verified independent agents before selling your home. Piloting in Málaga |
+| **[Ideambox](https://ideambox.com)** | Product engineering and manufacturing studio — industrial design, mechanical engineering, electronics integration, prototyping, validation, tooling and production across Taiwan and China |
+| **[FABNOD](https://fabnod.com)** | AI sales infrastructure for industrial SMEs — turning company capabilities, evidence and manufacturing knowledge into a machine-readable commercial interface for AI buyers |
+| **[Carbi](https://carbi.com)** | 1,500-lumen smart headlamp designed around peripheral vision |
+| **GSTS** | Shift-by-wire gear selector based on a three-dimensional touch interface |
+
+### Software Products
+
+| Project | What it is |
+|---|---|
+| **[MyRate FX](https://myratefx.com)** | Shows the exchange rate your bank actually applies — card, ATM, cash and transfer — across 600+ banks in 51 countries. [Google Play](https://play.google.com/store/apps/details?id=com.myratefx.app) |
+| **[ClearCopies](https://clearcopies.com)** | Finds exact duplicate files across OneDrive, Google Drive and Dropbox, with read-only scanning and recoverable deletion |
+| **[Albaysol](https://albaysol.com)** | Platform for comparing verified independent real-estate agents before selling a property. Piloting in Málaga |
+
+### Websites & Archives
+
+| Project | What it is |
+|---|---|
+| **[pedroalbaladejo.com](https://pedroalbaladejo.com)** | Personal site and selected engineering work |
 | **[Lin's Culture](https://linsculture.com)** | Storefront and catalogue for a Taiwanese house of traditional Chinese music |
-| **[Lin Ku-jen Atelier](https://linkujen.com)** | Trilingual archive for a master bamboo flute maker in Taipei |
-| **Carbi** — [carbi.com](https://carbi.com) | 1,500-lumen smart headlamp designed around the eye's peripheral vision |
-| **GSTS** | Shift-by-wire gear selector on a three-dimensional touch surface |
+| **[Lin Ku-jen Atelier](https://linkujen.com)** | Trilingual digital archive for a master bamboo flute maker in Taipei |
 
 ### Patents
 
@@ -28,4 +42,6 @@ Before Ideambox: Chief Engineer at Great Wall Motors (Baoding), Advanced Enginee
 
 ### About this profile
 
-Most of my work lives in private repositories — client hardware under NDA, and products where the code isn't the deliverable. What's public is the products themselves: every link above leads to something you can actually use.
+Most of my engineering work lives in private repositories — client products under NDA, embedded systems, manufacturing documentation and internal development tools.
+
+The public work here reflects the other side of what I build: physical products, software and digital systems intended to be used in the real world.
